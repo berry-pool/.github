@@ -1,6 +1,6 @@
 # Berry Pool
 
-A Cardano stake pool.
+A Cardano stake pool
 
 ---
 
